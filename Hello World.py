@@ -1,0 +1,1 @@
+print("Welcome to new pc {}".format("Hello World"))
